@@ -1,6 +1,6 @@
 JFinder è il perfetto compagno di chi vuole trovare lavoro? Ah no? Preferisci startene sul divano stravacato? Ah... Allora niente alla prossima
 
-# COME FAR FUNZIONA L'APP:
+# COME FAR FUNZIONARE L'APP:
 
 - Installare Expo-Go sul proprio telefono
 - Aprire il progetto in Visual Studio Code

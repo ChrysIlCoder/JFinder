@@ -1,4 +1,4 @@
-JFinder è il perfetto compagno di chi vuole trovare lavoro? Ah no? Preferisci startene sul divano stravacato? Ah... Allora niente alla prossima
+JFinder è il perfetto compagno di chi vuole trovare lavoro! Hai appena finito gli studi? Hai voglia di lavorare? Ah no? Preferisci startene... sul divano... stravacato? Ah... Allora niente alla prossima
 
 # COME FAR FUNZIONARE L'APP:
 

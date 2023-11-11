@@ -23,7 +23,7 @@ export default function Nearbyjobs (){
         {isLoading ? (
           <ActivityIndicator size="large" color={COLORS.primary}/>
         ) : error ? (
-          <Text>Non sono riuscito a caga smerdasburare</Text>
+          <Text>Non ho trovato lavori vicino a te</Text>
         ) : (
           data?.map((job) => (
             <NearbyJobCard 
